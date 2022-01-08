@@ -15,7 +15,7 @@
   <img src="https://github.com/erkaneroglu/ingilizceimage/blob/main/5u32.PNG" width="250">
   <img src="https://github.com/erkaneroglu/ingilizceimage/blob/main/5u33.PNG" width="250">
   
-    <img src="https://github.com/erkaneroglu/ingilizceimage/blob/main/5u41.PNG" width="250">
+  <img src="https://github.com/erkaneroglu/ingilizceimage/blob/main/5u41.PNG" width="250">
   <img src="https://github.com/erkaneroglu/ingilizceimage/blob/main/5u42.PNG" width="250">
   <img src="https://github.com/erkaneroglu/ingilizceimage/blob/main/5u43.PNG" width="250">  
   <img src="https://github.com/erkaneroglu/ingilizceimage/blob/main/5u44.PNG" width="250">
